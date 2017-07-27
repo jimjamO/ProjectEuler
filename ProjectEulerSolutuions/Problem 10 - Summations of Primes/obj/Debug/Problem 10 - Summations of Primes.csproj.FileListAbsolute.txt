@@ -1,0 +1,6 @@
+C:\Users\Jordan.OHare\Documents\Visual Studio 2015\Projects\ProjectEulerSolutuions\Problem 10 - Summations of Primes\bin\Debug\Problem 10 - Summations of Primes.exe.config
+C:\Users\Jordan.OHare\Documents\Visual Studio 2015\Projects\ProjectEulerSolutuions\Problem 10 - Summations of Primes\bin\Debug\Problem 10 - Summations of Primes.exe
+C:\Users\Jordan.OHare\Documents\Visual Studio 2015\Projects\ProjectEulerSolutuions\Problem 10 - Summations of Primes\bin\Debug\Problem 10 - Summations of Primes.pdb
+C:\Users\Jordan.OHare\Documents\Visual Studio 2015\Projects\ProjectEulerSolutuions\Problem 10 - Summations of Primes\obj\Debug\Problem 10 - Summations of Primes.csprojResolveAssemblyReference.cache
+C:\Users\Jordan.OHare\Documents\Visual Studio 2015\Projects\ProjectEulerSolutuions\Problem 10 - Summations of Primes\obj\Debug\Problem 10 - Summations of Primes.exe
+C:\Users\Jordan.OHare\Documents\Visual Studio 2015\Projects\ProjectEulerSolutuions\Problem 10 - Summations of Primes\obj\Debug\Problem 10 - Summations of Primes.pdb

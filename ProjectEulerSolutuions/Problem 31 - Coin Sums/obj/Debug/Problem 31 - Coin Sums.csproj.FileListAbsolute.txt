@@ -1,0 +1,6 @@
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 31 - Coin Sums\bin\Debug\Problem 31 - Coin Sums.exe.config
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 31 - Coin Sums\bin\Debug\Problem 31 - Coin Sums.exe
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 31 - Coin Sums\bin\Debug\Problem 31 - Coin Sums.pdb
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 31 - Coin Sums\obj\Debug\Problem 31 - Coin Sums.exe
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 31 - Coin Sums\obj\Debug\Problem 31 - Coin Sums.pdb
+C:\Users\Jordan.OHare\Documents\Visual Studio 2015\Projects\ProjectEulerSolutuions\Problem 31 - Coin Sums\obj\Debug\Problem 31 - Coin Sums.csprojResolveAssemblyReference.cache

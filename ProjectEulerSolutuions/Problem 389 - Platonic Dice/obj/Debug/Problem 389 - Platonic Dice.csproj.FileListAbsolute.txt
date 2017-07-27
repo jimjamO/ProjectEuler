@@ -1,0 +1,6 @@
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 389 - Platonic Dice\bin\Debug\Problem 389 - Platonic Dice.exe.config
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 389 - Platonic Dice\bin\Debug\Problem 389 - Platonic Dice.exe
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 389 - Platonic Dice\bin\Debug\Problem 389 - Platonic Dice.pdb
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 389 - Platonic Dice\obj\Debug\Problem 389 - Platonic Dice.csprojResolveAssemblyReference.cache
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 389 - Platonic Dice\obj\Debug\Problem 389 - Platonic Dice.exe
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 389 - Platonic Dice\obj\Debug\Problem 389 - Platonic Dice.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jordan.OHare\Documents\Visual Studio 2015\Projects\ProjectEulerSolutuions\CSharpTests\bin\Debug\CSharpTests.exe.config
+C:\Users\Jordan.OHare\Documents\Visual Studio 2015\Projects\ProjectEulerSolutuions\CSharpTests\bin\Debug\CSharpTests.exe
+C:\Users\Jordan.OHare\Documents\Visual Studio 2015\Projects\ProjectEulerSolutuions\CSharpTests\bin\Debug\CSharpTests.pdb
+C:\Users\Jordan.OHare\Documents\Visual Studio 2015\Projects\ProjectEulerSolutuions\CSharpTests\obj\Debug\CSharpTests.exe
+C:\Users\Jordan.OHare\Documents\Visual Studio 2015\Projects\ProjectEulerSolutuions\CSharpTests\obj\Debug\CSharpTests.pdb
+C:\Users\Jordan.OHare\Documents\Visual Studio 2015\Projects\ProjectEulerSolutuions\CSharpTests\obj\Debug\CSharpTests.csprojResolveAssemblyReference.cache

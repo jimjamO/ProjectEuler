@@ -1,0 +1,6 @@
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 28 - Number Spiral Diagonals\bin\Debug\Problem 28 - Number Spiral Diagonals.exe.config
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 28 - Number Spiral Diagonals\bin\Debug\Problem 28 - Number Spiral Diagonals.exe
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 28 - Number Spiral Diagonals\bin\Debug\Problem 28 - Number Spiral Diagonals.pdb
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 28 - Number Spiral Diagonals\obj\Debug\Problem 28 - Number Spiral Diagonals.csprojResolveAssemblyReference.cache
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 28 - Number Spiral Diagonals\obj\Debug\Problem 28 - Number Spiral Diagonals.exe
+C:\Users\Jordan.OHare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 28 - Number Spiral Diagonals\obj\Debug\Problem 28 - Number Spiral Diagonals.pdb

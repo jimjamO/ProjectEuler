@@ -1,0 +1,6 @@
+c:\users\jordan.ohare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 206 - Concealed Square\bin\Debug\Problem 206 - Concealed Square.exe.config
+c:\users\jordan.ohare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 206 - Concealed Square\bin\Debug\Problem 206 - Concealed Square.exe
+c:\users\jordan.ohare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 206 - Concealed Square\bin\Debug\Problem 206 - Concealed Square.pdb
+c:\users\jordan.ohare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 206 - Concealed Square\obj\Debug\Problem 206 - Concealed Square.csprojResolveAssemblyReference.cache
+c:\users\jordan.ohare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 206 - Concealed Square\obj\Debug\Problem 206 - Concealed Square.exe
+c:\users\jordan.ohare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\Problem 206 - Concealed Square\obj\Debug\Problem 206 - Concealed Square.pdb

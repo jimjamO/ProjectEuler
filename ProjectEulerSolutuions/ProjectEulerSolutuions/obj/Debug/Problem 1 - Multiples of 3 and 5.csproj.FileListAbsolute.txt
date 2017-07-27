@@ -1,0 +1,6 @@
+c:\users\jordan.ohare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\ProjectEulerSolutuions\bin\Debug\ProjectEulerSolutuions.exe.config
+c:\users\jordan.ohare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\ProjectEulerSolutuions\bin\Debug\ProjectEulerSolutuions.exe
+c:\users\jordan.ohare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\ProjectEulerSolutuions\bin\Debug\ProjectEulerSolutuions.pdb
+c:\users\jordan.ohare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\ProjectEulerSolutuions\obj\Debug\Problem 1 - Multiples of 3 and 5.csprojResolveAssemblyReference.cache
+c:\users\jordan.ohare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\ProjectEulerSolutuions\obj\Debug\ProjectEulerSolutuions.exe
+c:\users\jordan.ohare\documents\visual studio 2015\Projects\ProjectEulerSolutuions\ProjectEulerSolutuions\obj\Debug\ProjectEulerSolutuions.pdb
